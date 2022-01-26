@@ -3,7 +3,7 @@
 Construct Week Project 
 
 ## Key Links
-repo link -https://github.com/Shreyasgkhakal100/uniqlo-clone-masai-unit-3-project.git
+repo link - https://github.com/alokkumar-dev/uniqlo-clone-masai-unit-3-project
 
 Blog link - https://medium.com/@hgauba4/how-did-our-team-build-the-uniqlo-clone-2d78566e6935
 
